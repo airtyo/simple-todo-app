@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/airtyo/simple-todo-app.git/static/css/main.f247b8f5.chunk.css",
+    "main.js": "/airtyo/simple-todo-app.git/static/js/main.6f152294.chunk.js",
+    "main.js.map": "/airtyo/simple-todo-app.git/static/js/main.6f152294.chunk.js.map",
+    "runtime-main.js": "/airtyo/simple-todo-app.git/static/js/runtime-main.a125b43c.js",
+    "runtime-main.js.map": "/airtyo/simple-todo-app.git/static/js/runtime-main.a125b43c.js.map",
+    "static/js/2.e68af391.chunk.js": "/airtyo/simple-todo-app.git/static/js/2.e68af391.chunk.js",
+    "static/js/2.e68af391.chunk.js.map": "/airtyo/simple-todo-app.git/static/js/2.e68af391.chunk.js.map",
+    "index.html": "/airtyo/simple-todo-app.git/index.html",
+    "precache-manifest.45700c8e1c79f808a582af9332cb481e.js": "/airtyo/simple-todo-app.git/precache-manifest.45700c8e1c79f808a582af9332cb481e.js",
+    "service-worker.js": "/airtyo/simple-todo-app.git/service-worker.js",
+    "static/css/main.f247b8f5.chunk.css.map": "/airtyo/simple-todo-app.git/static/css/main.f247b8f5.chunk.css.map",
+    "static/js/2.e68af391.chunk.js.LICENSE.txt": "/airtyo/simple-todo-app.git/static/js/2.e68af391.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a125b43c.js",
+    "static/js/2.e68af391.chunk.js",
+    "static/css/main.f247b8f5.chunk.css",
+    "static/js/main.6f152294.chunk.js"
+  ]
+}
